@@ -1,0 +1,35 @@
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 5px;
+    width: 200px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid red;
+    background: transparent;
+    color: #fff;
+    font-size: 16px;
+}
+
+::-webkit-input-placeholder {
+    /* Edge */
+    color: red;
+    font-size: 16px;
+}
+
+:-ms-input-placeholder {
+    /* Internet Explorer */
+    color: red;
+    font-size: 16px;
+}
+
+::placeholder {
+    color: red;
+    font-size: 16px;
+}
+
+::-moz-placeholder {
+    color: red;
+    font-size: 16px;
+}

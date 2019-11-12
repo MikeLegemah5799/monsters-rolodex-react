@@ -1,0 +1,8 @@
+{
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true
+}
